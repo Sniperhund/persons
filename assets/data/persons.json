@@ -1,0 +1,44 @@
+[
+    {
+        "image": "https://picsum.photos/200",
+        "name": "Lucas Täkker",
+        "username": "lucasskt",
+        "email": "not@sharing.lol"
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "name": "Lucas Täkker",
+        "username": "lucasskt",
+        "email": "not@sharing.lol",
+        "useMaps": true,
+        "mapCoords": [56.44917, 9.4303]
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "name": "Lucas Täkker",
+        "username": "lucasskt",
+        "email": "not@sharing.lol"
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "name": "Lucas Täkker",
+        "username": "lucasskt",
+        "email": "not@sharing.lol",
+        "useMaps": true,
+        "mapCoords": [60.44917, 11.4303]
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "name": "Lucas Täkker",
+        "username": "lucasskt",
+        "email": "not@sharing.lol"
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "name": "Lucas Täkker",
+        "username": "lucasskt",
+        "email": "not@sharing.lol",
+        "useMaps": true,
+        "mapCoords": [56.46407, 9.44836]
+    }
+]
